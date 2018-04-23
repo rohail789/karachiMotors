@@ -1,0 +1,54 @@
+﻿body {
+    /*background-image: url("Media/back.jpg");*/
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#container {
+    height: 537px;
+    width: 190px;
+    text-align: center;
+    background-color: rgba(81, 250, 105, 0.5);
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+#MainLabel {
+    height: 80px;
+    width: 1350px;
+    background-color: rgba(248, 86, 49, 0.5);
+    border-radius: 5px;
+    text-align: center;
+}
+
+#ContentPage {
+    height: 540px;
+    width: 1128px;
+    margin-top: -537px;
+    margin-left: 220px;
+    background-color: rgba(44, 147, 245, 0.5);
+    border-radius: 5px;
+    text-align: center;
+}
+
+#GirdViewdiv {
+}
+
+table#CPH_GirdViewdiv th {
+    background: white;
+}
+
+table#CPH_GirdViewdiv tr:nth-child(even) {
+    background: rgba(255,255,255,0.5);
+}
+
+td {
+    word-break: break-all;
+    text-align: center;
+}
+
+.custom-tab {
+    border-collapse: collapse;
+    table-layout: fixed;
+}

@@ -1,0 +1,36 @@
+﻿body {
+
+        margin: 0 auto;
+        background-image: url("Media/back.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 720px;
+
+
+}
+#container {
+
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background-color: rgba(52, 73, 94, 0.7);
+    border-radius:5px;
+     margin: 0 auto;
+     margin-top:100px;
+}
+
+#imgl {
+     width: 120px;
+        height: 120px;
+        margin-top: -60px;
+        margin-bottom: 30px;
+}
+
+#tbx {
+height : 70px;
+width : 500px;
+text-align: center;
+}
+
+#divOfbutton {
+text-align : center;
+}

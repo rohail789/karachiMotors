@@ -1,0 +1,4 @@
+C:\Users\hp\Documents\Visual Studio 2012\Projects\KarachiMotors\KarachiMotorSystem\bin\KarachiMotorSystem.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\KarachiMotors\KarachiMotorSystem\bin\KarachiMotorSystem.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\KarachiMotors\KarachiMotorSystem\obj\Debug\KarachiMotorSystem.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\KarachiMotors\KarachiMotorSystem\obj\Debug\KarachiMotorSystem.pdb

@@ -1,0 +1,11 @@
+C:\Users\hp\documents\visual studio 2012\Projects\KarachiMotors\KarachiMotorSystem\bin\KarachiMotorSystem.dll
+C:\Users\hp\documents\visual studio 2012\Projects\KarachiMotors\KarachiMotorSystem\bin\KarachiMotorSystem.pdb
+C:\Users\hp\documents\visual studio 2012\Projects\KarachiMotors\KarachiMotorSystem\obj\Release\KarachiMotorSystem.dll
+C:\Users\hp\documents\visual studio 2012\Projects\KarachiMotors\KarachiMotorSystem\obj\Release\KarachiMotorSystem.pdb
+C:\Users\hp\documents\visual studio 2012\Projects\KarachiMotors\KarachiMotorSystem\obj\Release\KarachiMotorSystem.csprojResolveAssemblyReference.cache
+C:\Users\rohail\Desktop\KarachiMotors-master\KarachiMotorSystem\bin\KarachiMotorSystem.dll.config
+C:\Users\rohail\Desktop\KarachiMotors-master\KarachiMotorSystem\bin\KarachiMotorSystem.dll
+C:\Users\rohail\Desktop\KarachiMotors-master\KarachiMotorSystem\bin\KarachiMotorSystem.pdb
+C:\Users\rohail\Desktop\KarachiMotors-master\KarachiMotorSystem\obj\Release\KarachiMotorSystem.csprojResolveAssemblyReference.cache
+C:\Users\rohail\Desktop\KarachiMotors-master\KarachiMotorSystem\obj\Release\KarachiMotorSystem.dll
+C:\Users\rohail\Desktop\KarachiMotors-master\KarachiMotorSystem\obj\Release\KarachiMotorSystem.pdb
